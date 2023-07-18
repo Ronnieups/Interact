@@ -1,0 +1,9 @@
+Django ==4.2.2
+Django REST framework ==3.12.4
+Django Channels ==3.0.3
+Pillow ==10.0.0
+django-taggit ==1.4.1
+django-ckeditor ==6.1.0
+django-crispy-forms ==1.13.0
+django-allauth ==0.45.0
+python-dotenv == 0.19.1
