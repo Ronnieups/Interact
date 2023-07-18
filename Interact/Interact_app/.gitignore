@@ -1,6 +1,0 @@
-myvenv/
-__pycache__
-*.pyc
-*.cpython-310.pyc
-local_settings.py
-.vscode/
